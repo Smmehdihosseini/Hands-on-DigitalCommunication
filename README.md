@@ -1,6 +1,7 @@
 # Hands-On Digital Communication
 
-Here you can find some hands-on projects related to **"Digital Communication"** Theories.
+Here you can find some hands-on projects related to **"Digital Communication"** theories.
+
 All the abovementioned implementations are in **MATLAB**.
 
 
